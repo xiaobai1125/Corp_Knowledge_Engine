@@ -30,6 +30,7 @@
 - **大模型**: DeepSeek-V3 (兼容 OpenAI 协议)
 - **Embedding**: BAAI/bge-large-zh-v1.5
 - **UI**: Streamlit
+- **API**: Fast
 
 ## 🚀 快速开始
 
